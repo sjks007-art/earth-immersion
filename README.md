@@ -1,124 +1,126 @@
-# 🌍 지구를 구하는 3줄 몰입 프로젝트
-> 1분의 몰입으로 시작하는 지구 살리기 운동  
-> *1 Minute Immersion for Earth*
+# 🌍 Earth Immersion 3-Line Project
+> Save Earth with 1 Minute Daily Immersion  
+> *1분의 몰입으로 시작하는 지구 살리기*
 
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Patents: NONE](https://img.shields.io/badge/Patents-NONE-green.svg)](https://github.com/sjks007-art/earth-immersion/blob/main/NO_PATENTS.md)
 [![Price: FREE](https://img.shields.io/badge/Price-FREE%20FOREVER-blue.svg)](https://github.com/sjks007-art/earth-immersion)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sjks007)
 
-## 🌱 프로젝트 소개
+## 🌱 About This Project
 
-매일 1분, 3줄의 실천으로 지구를 구합니다.
+Save Earth with 1 minute, 3 lines of practice daily.
 
-### 핵심 실천
-- **숨** - 지구와 함께 호흡
-- **마음** - 지구를 위한 생각
-- **감사** - 지구에게 전하는 마음
+### Core Practice
+- **Breath** - Breathe with Earth
+- **Mind** - Think for Earth
+- **Gratitude** - Thank Earth
 
-> "작은 씨앗이 큰 숲을 만들고,  
-> 한 마리 나비의 날갯짓이 태풍을 만듭니다.  
-> 1분의 몰입이 지구를 구합니다."
+> "A small seed creates a forest,  
+> A butterfly's wings create a storm,  
+> 1 minute of immersion saves Earth."
 
-## 🎯 왜 3줄 몰입인가?
+## 🎯 Why 3-Line Immersion?
 
-### 과학적 근거
-- 🧠 **1분 = 최소 유효 시간** - 뇌과학이 입증한 최소 집중 단위
-- 🌊 **3단계 = 완벽한 리듬** - 황농문 교수 몰입 이론 기반
-- 💚 **매일 = 습관의 시작** - 21일 법칙으로 검증된 변화
+### Scientific Foundation
+- 🧠 **1 Minute = Minimum Effective Time** - Neuroscience-proven focus unit
+- 🌊 **3 Steps = Perfect Rhythm** - Based on Prof. Hwang's immersion theory
+- 💚 **Daily = Habit Formation** - 21-day rule for lasting change
 
-### 지구에 미치는 영향
+### Impact on Earth
 ```
-1명이 1분 실천 → 일회용품 1개 감소
-100명이 1분 실천 → 탄소 100kg 감소
-10,000명이 1분 실천 → 숲 1개 조성 효과
-1,000,000명이 1분 실천 → 지구 온도 0.001°C 하락
-```
-
-## 📅 일일 업데이트
-
-| 날짜 | 주제 | 참여 | 링크 |
-|------|------|------|------|
-| Day 1 (09.21) | 지구와 함께 숨쉬기 | 1명 | [보기](./daily/day001.md) |
-| Day 2 (09.22) | 지구가 주는 선물 | - | 준비중 |
-| Day 3 (09.23) | 작은 실천의 힘 | - | 준비중 |
-| Day 4 (09.24) | 플라스틱 없는 하루 | - | 준비중 |
-| Day 5 (09.25) | 물 한 방울의 소중함 | - | 준비중 |
-
-*365일 계속됩니다...*
-
-## 🚀 시작하기
-
-### 방법 1: 조용한 실천가 🌱
-1. 이 페이지 북마크
-2. 매일 1분 실천
-3. 마음속으로 기록
-
-### 방법 2: 함께하는 동행자 🤝
-1. ⭐ **Star** 누르기 (참여 의사)
-2. 🍴 **Fork**하기 (나만의 기록)
-3. 📢 **공유**하기 (#지구를구하는3줄몰입)
-
-### 방법 3: 적극적인 수호자 💪
-1. [Issues](https://github.com/sjks007-art/earth-immersion/issues)에 아이디어 제안
-2. Pull Request로 콘텐츠 기여
-3. 번역 참여로 글로벌 확산
-
-## 💡 핵심 철학
-
-### ❌ 우리는 거부합니다
-- **특허** - 이것은 인류 공동 자산입니다
-- **광고** - 순수한 의도만 있습니다
-- **강요** - 자발적 참여만 의미있습니다
-- **판매** - 지구는 상품이 아닙니다
-
-### ✅ 우리는 믿습니다
-- **무료** - 가난해도 지구를 구할 수 있습니다
-- **공유** - 나눔이 세상을 바꿉니다
-- **실천** - 작은 행동이 큰 변화를 만듭니다
-- **연대** - 함께면 가능합니다
-
-## 🌏 글로벌 확산
-
-### 현재 지원 언어
-- 🇰🇷 **한국어** (Korean) - 100%
-- 🇬🇧 **English** - 진행중
-- 🇨🇳 **中文** - 준비중
-- 🇻🇳 **Tiếng Việt** - 준비중
-- 🇪🇸 **Español** - 계획중
-- 🇯🇵 **日本語** - 계획중
-
-### 번역 참여 방법
-1. `/translations/[언어코드]` 폴더 생성
-2. `README_[언어코드].md` 파일 작성
-3. Pull Request 제출
-4. 전 세계에 전파! 🌍
-
-## 📊 실시간 임팩트
-
-### 🌡️ 지구 온도계 (2025.09.21 기준)
-```
-참여자: 1명 🌱
-국가: 1개국 🇰🇷
-누적 실천: 1회
-절약한 플라스틱: 1개
-감소한 탄소: 0.1kg
-총 몰입 시간: 1분
-
-목표: 1,000,000명 참여
-진행률: [□□□□□□□□□□] 0.0001%
+1 person × 1 minute = 1 less disposable item
+100 people × 1 minute = 100kg CO₂ reduction
+10,000 people × 1 minute = 1 forest effect
+1,000,000 people × 1 minute = 0.001°C global cooling
 ```
 
-### 🎯 2025년 목표
-- [ ] 참여자 1,000명 달성
-- [ ] 5개국 언어 지원
-- [ ] 탄소 10톤 감축
-- [ ] UN 공식 프로그램 등록
+## 📅 Daily Updates
 
-## ☕ 후원하기 (100% 선택사항)
+| Date | Topic | Participants | Link |
+|------|-------|--------------|------|
+| Day 1 (09.21) | Breathing with Earth | 1 | [View](./daily/day001.md) |
+| Day 2 (09.22) | Gifts from Earth | 1 | [View](./daily/day002.md) |
+| Day 3 (09.23) | Power of Small Actions | 1 | [View](./daily/day003.md) |
+| Day 4 (09.24) | Wednesday Reflection | In Progress | [View](./daily/day004.md) |
+| Day 5 (09.25) | Thankful Thursday | - | Coming |
+| Day 6 (09.26) | Friday Resolution | - | Coming |
+| Day 7 (09.27) | Week Complete | - | Coming |
 
-**이 프로젝트는 영원히 무료입니다.**  
-하지만 더 많은 사람에게 전파하고 싶다면:
+*Continues for 365 days...*
+
+## 🚀 How to Start
+
+### Method 1: Silent Practitioner 🌱
+1. Bookmark this page
+2. Practice 1 minute daily
+3. Keep it in your heart
+
+### Method 2: Walking Together 🤝
+1. ⭐ **Star** this repo (show participation)
+2. 🍴 **Fork** it (keep your records)
+3. 📢 **Share** it (#EarthImmersion)
+
+### Method 3: Active Guardian 💪
+1. Submit ideas via [Issues](https://github.com/sjks007-art/earth-immersion/issues)
+2. Contribute content via Pull Request
+3. Help translate for global reach
+
+## 💡 Core Philosophy
+
+### ❌ We Reject
+- **Patents** - This belongs to humanity
+- **Ads** - Pure intention only
+- **Force** - Voluntary participation matters
+- **Sales** - Earth is not a product
+
+### ✅ We Believe
+- **Free** - Anyone can save Earth
+- **Share** - Sharing changes the world
+- **Action** - Small acts create big change
+- **Together** - We can do this
+
+## 🌏 Global Expansion
+
+### Current Languages
+- 🇰🇷 **Korean** - 100%
+- 🇬🇧 **English** - In Progress
+- 🇨🇳 **Chinese** - Planned
+- 🇻🇳 **Vietnamese** - Planned
+- 🇪🇸 **Spanish** - Planned
+- 🇯🇵 **Japanese** - Planned
+
+### How to Translate
+1. Create `/translations/[language-code]` folder
+2. Write `README_[language-code].md`
+3. Submit Pull Request
+4. Spread globally! 🌍
+
+## 📊 Live Impact
+
+### 🌡️ Earth Thermometer (2025.09.24)
+```
+Participants: 1 🌱
+Countries: 1 🇰🇷
+Total Practice: 4 times
+Plastic Saved: 12 items
+CO₂ Reduced: 1.2kg
+Total Immersion: 4 minutes
+
+Goal: 1,000,000 participants
+Progress: [■□□□□□□□□□] 0.0001%
+```
+
+### 🎯 2025 Goals
+- [ ] Reach 1,000 participants
+- [ ] Support 5 languages
+- [ ] Reduce 10 tons CO₂
+- [ ] UN official program registration
+
+## ☕ Support (100% Optional)
+
+**This project is forever free.**  
+If you want to help spread the message:
 
 <div align="center">
 
@@ -126,118 +128,112 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-**☕ 커피 한 잔 = 📄 번역 1페이지 = 🌍 100명에게 전파**
+**☕ 1 Coffee = 📄 1 Translation = 🌍 100 People Reached**
 
 </div>
 
-### 💰 후원금 사용 계획 (100% 투명 공개)
-| 용도 | 비율 | 설명 |
-|------|------|------|
-| 번역 | 60% | 베트남어, 중국어, 스페인어 |
-| 인프라 | 20% | 웹사이트, 도메인 |
-| 교육자료 | 15% | 소외계층 교육 |
-| 예비비 | 5% | 긴급 대응 |
+### 💰 Fund Usage (100% Transparent)
+| Purpose | Percentage | Description |
+|---------|------------|-------------|
+| Translation | 60% | Vietnamese, Chinese, Spanish |
+| Infrastructure | 20% | Website, domain |
+| Education | 15% | Underprivileged communities |
+| Reserve | 5% | Emergency response |
 
-**매월 보고서:** [/reports](./reports/) 폴더에서 확인
+**Monthly Reports:** Check [/reports](./reports/) folder
 
-> 💡 **한국 후원자님께:** Buy Me a Coffee는 해외 플랫폼입니다.  
-> 토스/카카오페이는 준비중입니다. 불편을 양해 부탁드립니다.
+## 🤝 How to Contribute
 
-## 🤝 함께하는 방법
-
-### 개인 실천
+### Personal Practice
 ```bash
-# 매일 루틴
-1. GitHub 방문 또는 북마크
-2. 오늘의 3줄 몰입 확인
-3. 1분 실천
-4. ⭐ Star로 참여 표시 (선택)
+# Daily Routine
+1. Visit GitHub or use bookmark
+2. Check today's 3-line immersion
+3. Practice for 1 minute
+4. ⭐ Star to show participation (optional)
 ```
 
-### 코드 기여
+### Code Contribution
 ```bash
-# 저장소 복제
+# Clone repository
 git clone https://github.com/sjks007-art/earth-immersion.git
 cd earth-immersion
 
-# 브랜치 생성
+# Create branch
 git checkout -b feature/day-xxx
 
-# 일일 콘텐츠 추가
-echo "Day XXX 내용" > daily/dayXXX.md
+# Add daily content
+echo "Day XXX content" > daily/dayXXX.md
 git add .
-git commit -m "🌍 Add Day XXX: [주제]"
+git commit -m "🌍 Add Day XXX: [topic]"
 git push origin feature/day-xxx
 
-# Pull Request 생성
+# Create Pull Request
 ```
 
-### 아이디어 제안
-- 💡 [Issues](https://github.com/sjks007-art/earth-immersion/issues)에 아이디어
-- 💬 [Discussions](https://github.com/sjks007-art/earth-immersion/discussions)에서 토론
-- 📧 이메일: sjks007@gmail.com
+### Share Ideas
+- 💡 Submit via [Issues](https://github.com/sjks007-art/earth-immersion/issues)
+- 💬 Discuss in [Discussions](https://github.com/sjks007-art/earth-immersion/discussions)
+- 📧 Email: sjks007@gmail.com
 
-## 📜 라이선스 & 특허 거부
+## 📜 License & No Patents
 
 ```
-🌍 이 프로젝트는 인류 공동 자산입니다.
-🚫 어떠한 특허도 인정하지 않습니다.
-✅ 누구나 자유롭게 사용, 수정, 배포, 상업화 가능합니다.
+🌍 This project belongs to humanity.
+🚫 We reject any patents.
+✅ Free to use, modify, distribute, commercialize.
 
 CC0 1.0 Universal - Public Domain Dedication
 No Rights Reserved
 
-"우리는 소유하지 않습니다. 우리는 공유합니다."
 "We don't own it. We share it."
 ```
 
-## 🌟 영감과 감사
+## 🌟 Inspiration & Gratitude
 
-### 철학적 기반
-> "세상을 바꾸고 싶다면, 먼저 자신이 그 변화가 되어라"  
+### Philosophical Foundation
+> "Be the change you wish to see in the world"  
 > *- Mahatma Gandhi*
 
-> "작은 것이 아름답다"  
+> "Small is beautiful"  
 > *- E.F. Schumacher*
 
-> "몰입은 긴장이 아니라 이완이다"  
-> *- 황농문*
+> "Immersion is not tension, but relaxation"  
+> *- Prof. Hwang Nong-moon*
 
-### 특별한 감사
-- 🙏 황농문 교수님 - 몰입 이론
-- 🙏 김주환 교수님 - 회복탄력성
-- 🙏 김종원 작가님 - 깊은 사고
-- 🙏 모든 참여자분들 - 함께하는 실천
+### Special Thanks
+- 🙏 Prof. Hwang Nong-moon - Immersion Theory
+- 🙏 Prof. Kim Ju-hwan - Resilience
+- 🙏 Writer Kim Jong-won - Deep Thinking
+- 🙏 All Participants - Practicing Together
 
-## 📱 연결하기
+## 📱 Connect
 
-### 공식 채널
+### Official Channels
 - 🌐 **GitHub:** [@sjks007-art/earth-immersion](https://github.com/sjks007-art/earth-immersion)
 - ☕ **Buy Me a Coffee:** [@sjks007](https://www.buymeacoffee.com/sjks007)
 - 📧 **Email:** sjks007@gmail.com
-- 📷 **Instagram:** @earth_immersion (준비중)
 
-### 한국 채널
-- 📝 **네이버 블로그:** (준비중)
-- 💬 **오픈채팅:** "지구를 구하는 3줄 몰입" (준비중)
-- 🎵 **밴드:** [직장인 아침 5분 몰입](https://band.us/band/99867102)
+### Korean Channels
+- 📝 **Naver Blog:** [Daily 1 Minute, Talk with Earth](https://blog.naver.com/sjks007)
+- 💬 **Naver Band:** [Save Earth with 3 Lines](https://www.band.us/band/99867102)
 
-## 🦋 나비가 되어주세요
+## 🦋 Become a Butterfly
 
 <div align="center">
 
 ```
-당신의 1분이
-누군가의 하루가 되고
+Your 1 minute
+Becomes someone's day
 
-모두의 1분이
-지구의 미래가 됩니다
+Everyone's 1 minute
+Becomes Earth's future
 
-지금 시작하세요
-딱 1분이면 됩니다
+Start now
+Just 1 minute is enough
 ```
 
-**[⬆ 맨 위로 돌아가기](#-지구를-구하는-3줄-몰입-프로젝트)**
+**[⬆ Back to Top](#-earth-immersion-3-line-project)**
 
 </div>
 
@@ -246,8 +242,8 @@ No Rights Reserved
 <div align="center">
 
 *Started: 2025.09.21*  
-*Founder: 갯버들 (sjks007)*  
-*Last Updated: 2025.09.21 15:00 KST*
+*Founder: Gaetbeodeul (sjks007)*  
+*Last Updated: 2025.09.24 KST*
 
 **Made with 💚 for Earth**
 
