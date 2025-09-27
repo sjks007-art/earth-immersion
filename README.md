@@ -1,6 +1,5 @@
 # 🌍 Earth Immersion 3-Line Project
 > Save Earth with 1 Minute Daily Immersion  
-> *1분의 몰입으로 시작하는 지구 살리기*
 
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Patents: NONE](https://img.shields.io/badge/Patents-NONE-green.svg)](https://github.com/sjks007-art/earth-immersion/blob/main/NO_PATENTS.md)
@@ -209,12 +208,12 @@ No Rights Reserved
 ## 📱 Connect
 
 ### Official Channels
-- 🌐 **GitHub:** [@sjks007-art/earth-immersion](https://github.com/sjks007-art/earth-immersion)
-- ☕ **Buy Me a Coffee:** [@sjks007](https://www.buymeacoffee.com/sjks007)
+- 🌐 **GitHub:** This repository
+- ☕ **Support:** [Buy Me a Coffee](https://buymeacoffee.com/sjks007)
+- 💬 **Discussions:** Use GitHub Discussions
+- 🌏 **Translations:** PRs welcome in any language!
 
-### Korean Channels
-- 📝 **Naver Blog:** [Daily 1 Minute, Talk with Earth](https://blog.naver.com/sjks007)
-- 💬 **Naver Band:** [Save Earth with 3 Lines](https://www.band.us/band/99867102)
+*Korean and other language communities available - please open an issue for details*
 
 ## 🦋 Become a Butterfly
 
@@ -240,7 +239,7 @@ Just 1 minute is enough
 <div align="center">
 
 *Started: 2025.09.21*  
-*Founder: Gaetbeodeul (갯버들)*  
+*Founder: Gaetbeodeul*  
 *Last Updated: 2025.09.27 KST*
 
 **Made with 💚 for Earth**
