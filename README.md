@@ -24,7 +24,7 @@ Save Earth with 1 minute, 3 lines of practice daily.
 
 ### Scientific Foundation
 - 🧠 **1 Minute = Minimum Effective Time** - Neuroscience-proven focus unit
-- 🌊 **3 Steps = Perfect Rhythm** - Based on Prof. Hwang's immersion theory
+- 🌊 **3 Steps = Perfect Rhythm** - Based on immersion science
 - 💚 **Daily = Habit Formation** - 21-day rule for lasting change
 
 ### Impact on Earth
@@ -42,10 +42,10 @@ Save Earth with 1 minute, 3 lines of practice daily.
 | Day 1 (09.21) | Breathing with Earth | 1 | [View](./daily/day001.md) |
 | Day 2 (09.22) | Gifts from Earth | 1 | [View](./daily/day002.md) |
 | Day 3 (09.23) | Power of Small Actions | 1 | [View](./daily/day003.md) |
-| Day 4 (09.24) | Wednesday Reflection | In Progress | [View](./daily/day004.md) |
-| Day 5 (09.25) | Thankful Thursday | - | Coming |
-| Day 6 (09.26) | Friday Resolution | - | Coming |
-| Day 7 (09.27) | Week Complete | - | Coming |
+| Day 4 (09.24) | Wednesday Reflection | 1 | [View](./daily/day004.md) |
+| Day 5 (09.25) | Thankful Thursday | 1 | [View](./daily/day005.md) |
+| Day 6 (09.26) | Friday Resolution | 1 | [View](./daily/day006.md) |
+| Day 7 (09.27) | Week Complete | 1 | [View](./daily/day007.md) |
 
 *Continues for 365 days...*
 
@@ -98,14 +98,14 @@ Save Earth with 1 minute, 3 lines of practice daily.
 
 ## 📊 Live Impact
 
-### 🌡️ Earth Thermometer (2025.09.24)
+### 🌡️ Earth Thermometer (2025.09.27)
 ```
 Participants: 1 🌱
 Countries: 1 🇰🇷
-Total Practice: 4 times
-Plastic Saved: 12 items
-CO₂ Reduced: 1.2kg
-Total Immersion: 4 minutes
+Total Practice: 7 times
+Plastic Saved: 21 items
+CO₂ Reduced: 2.1kg
+Total Immersion: 7 minutes
 
 Goal: 1,000,000 participants
 Progress: [■□□□□□□□□□] 0.0001%
@@ -174,7 +174,6 @@ git push origin feature/day-xxx
 ### Share Ideas
 - 💡 Submit via [Issues](https://github.com/sjks007-art/earth-immersion/issues)
 - 💬 Discuss in [Discussions](https://github.com/sjks007-art/earth-immersion/discussions)
-- 📧 Email: sjks007@gmail.com
 
 ## 📜 License & No Patents
 
@@ -199,20 +198,19 @@ No Rights Reserved
 > *- E.F. Schumacher*
 
 > "Immersion is not tension, but relaxation"  
-> *- Prof. Hwang Nong-moon*
+> *- Based on immersion science*
 
 ### Special Thanks
-- 🙏 Prof. Hwang Nong-moon - Immersion Theory
-- 🙏 Prof. Kim Ju-hwan - Resilience
-- 🙏 Writer Kim Jong-won - Deep Thinking
-- 🙏 All Participants - Practicing Together
+- 🙏 To all pioneers of immersion theory
+- 🙏 To resilience researchers worldwide
+- 🙏 To deep thinking practitioners
+- 🙏 To all participants practicing together
 
 ## 📱 Connect
 
 ### Official Channels
 - 🌐 **GitHub:** [@sjks007-art/earth-immersion](https://github.com/sjks007-art/earth-immersion)
 - ☕ **Buy Me a Coffee:** [@sjks007](https://www.buymeacoffee.com/sjks007)
-- 📧 **Email:** sjks007@gmail.com
 
 ### Korean Channels
 - 📝 **Naver Blog:** [Daily 1 Minute, Talk with Earth](https://blog.naver.com/sjks007)
@@ -242,8 +240,8 @@ Just 1 minute is enough
 <div align="center">
 
 *Started: 2025.09.21*  
-*Founder: Gaetbeodeul (sjks007)*  
-*Last Updated: 2025.09.24 KST*
+*Founder: Gaetbeodeul (갯버들)*  
+*Last Updated: 2025.09.27 KST*
 
 **Made with 💚 for Earth**
 
